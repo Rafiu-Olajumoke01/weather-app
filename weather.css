@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background-color: rgba(6, 82, 188, 0.871); */
+    background-color: rgb(183, 204, 236);
+}
+
+.card{
+    width: 30%;
+    /* height: 100vh; */
+    margin-top: 10rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: rgba(118, 167, 230, 0.939);
+    text-align: center;
+    border-style: groove;
+    border-style: dashed;
+    margin: auto;
+    border-radius: 5%;
+
+}
+input{
+    width: 15rem;
+    height: 2rem;
+    border-radius: .8rem;
+    border-style: none;
+    padding: .3rem;
+}
+button{
+    padding: .3rem;
+    border-radius: 50%;
+    background-color: white;
+}
